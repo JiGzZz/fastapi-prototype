@@ -1,0 +1,5 @@
+__pycache__
+venv/
+.env
+requirements_old.txt
+FastAPI.code-workspace
